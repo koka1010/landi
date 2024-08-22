@@ -6,7 +6,7 @@
     font-family: 'Inconsolata', monospace;
     list-style: none; /* Quitar los puntos e decoración de las listas */
     text-decoration: none; /* Esto quita el subrayado de los enlaces */
-    color: white;
+    color: rgba(255, 255, 255, 0.87);
 }
 
 header {
